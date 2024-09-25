@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: java
-        image: rohansharma91/jenkins:2
+        image: rohansharma91/jenkins:12
         ports:
         - containerPort: 80
